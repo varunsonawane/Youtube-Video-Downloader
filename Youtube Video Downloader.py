@@ -46,3 +46,5 @@ status_label.pack(pady=10)
 
 # Run the application
 root.mainloop()
+
+#is it running?????
