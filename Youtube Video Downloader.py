@@ -48,4 +48,4 @@ status_label.pack(pady=10)
 root.mainloop()
 
 #is it running?????
-#if not then recheck that you have  all the necessary libraries :)
+#if not then recheck that you have all the necessary libraries :)
