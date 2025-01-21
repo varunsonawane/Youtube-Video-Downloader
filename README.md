@@ -1,4 +1,3 @@
-
 # 🎥 YouTube Video Downloader 📥
 
 A simple and user-friendly desktop application to download YouTube videos with just one click! Built using Python and `yt-dlp`, this tool allows you to easily save your favorite videos locally for offline viewing.
